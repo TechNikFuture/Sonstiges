@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stundenpläne</title>
+</head>
+
+<body>
+
+
+<div class="Auswahl_gesamt_div">
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+      <div class="select-box3">
+        <div class="Fremdsprache_auswahl">
+  
+          <div class="option3" onclick="Fremdsprache_Latein_1_selected()">
+          <input type="radio" class="radio3" id="select_Latein_1" name="category" />
+          <label class="label3" for="select_Latein_1">Latein 1</label>
+        </div>
+        
+        <div class="option3" onclick="Fremdsprache_Latein_2_selected()">
+          <input type="radio" class="radio3" id="select_Latein_2" name="category" />
+          <label class="label3" for="select_Latein_2">Latein 2</label>
+        </div>
+        
+        <div class="option3" onclick="Fremdsprache_Spanisch_1_selected()">
+          <input type="radio" class="radio3" id="select_Spanisch_1" name="category" />
+          <label class="label3" for="select_Spanisch_1">Spanisch 1</label>
+        </div>
+        
+        <div class="option3" onclick="Fremdsprache_Spanisch_2_selected()">
+          <input type="radio" class="radio3" id="select_Spanisch_2" name="category" />
+          <label class="label3" for="select_Spanisch_2">Spanisch 2</label>
+        </div>
+        
+        <div class="option3" onclick="Fremdsprache_Französisch_1_selected()">
+          <input type="radio" class="radio3" id="select_Französisch_1" name="category" />
+          <label class="label3" for="select_Französisch_1">Französisch 1</label>
+        </div>
+        
+        <div class="option3" onclick="Fremdsprache_Französisch_2_selected()">
+          <input type="radio" class="radio3" id="select_Französisch_2" name="category" />
+          <label class="label3" for="select_Französisch_2">Französisch 2</label>
+        </div>
+        
+        
+        
+      </div>
+      
+      <div class="selected3">
+        Fremdsprache
+      </div>
+    </div>
+    
+    
+    
+    
+    
+
+
+
+    
+    
+    
+    
+      <div class="select-box4">
+        <div class="Bili_Kurse_auswahl">
+    
+        <div class="option4" onclick="Bili_1_selected()">
+          <input type="radio" class="radio4" id="select_Bili_1" name="category" />
+          <label class="label4" for="select_Bili_1">Bili 1</label>
+        </div>
+        
+        <div class="option4" onclick="Normal_2_selected()">
+          <input type="radio" class="radio4" id="select_Normal_2" name="category" />
+          <label class="label4" for="select_Normal_2">Normal 2</label>
+        </div>
+    
+        <div class="option4" onclick="Normal_3_selected()">
+          <input type="radio" class="radio4" id="select_Normal_3" name="category" />
+          <label class="label4" for="select_Normal_3">Normal 3</label>
+        </div>
+    
+        <div class="option4" onclick="Normal_4_selected()">
+          <input type="radio" class="radio4" id="select_Normal_4" name="category" />
+          <label class="label4" for="select_Normal_4">Normal 4</label>
+        </div>
+      
+    
+      </div>
+    
+      <div class="selected4">
+        (Bili) Kurse
+      </div>
+    </div>
+      
+    
+    
+    
+    
+    
+    
+    
+      <div class="select-box5">
+        <div class="Reli_Kurse_auswahl">
+    
+        <div class="option5" onclick="Reli_1_selected()">
+          <input type="radio" class="radio5" id="select_Reli_1" name="category" />
+          <label class="label5" for="select_Reli_1">Reli 1</label>
+        </div>
+        
+        <div class="option5" onclick="Reli_2_selected()">
+          <input type="radio" class="radio5" id="select_Reli_2" name="category" />
+          <label class="label5" for="select_Reli_2">Reli 2</label>
+        </div>
+    
+        <div class="option5" onclick="Reli_3_selected()">
+          <input type="radio" class="radio5" id="select_Reli_3" name="category" />
+          <label class="label5" for="select_Reli_3">Reli 3</label>
+        </div>
+    
+        <div class="option5" onclick="WN_selected()">
+          <input type="radio" class="radio5" id="select_WN" name="category" />
+          <label class="label5" for="select_WN">WN</label>
+        </div>
+      
+    
+      </div>
+    
+      <div class="selected5">
+        Reli Kurse
+      </div>
+    </div>
+      
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <span id="stundenplanname1" class="stundenplanname1">Niklas 9b</span>
+
+        <table class="test_tabelle_Niklas">
+        <thead><tr><th></th><th class="Tage">Montag</th><th class="Tage">Dienstag</th><th class="Tage">Mittwoch</th><th class="Tage">Donnerstag</th><th class="Tage">Freitag</th></tr></thead><tbody>
+        <tr class="a">
+          <td class="Stunden" id="1_1"></td>
+          <td class="Fächer" id="1_2"></td>
+          <td class="Fächer" id="1_3"></td>
+          <td class="Fächer" id="1_4"></td>
+          <td class="Fächer" id="1_5"></td>
+          <td class="Fächer" id="1_6"></td></tr>
+
+
+        <tr class="b">
+          <td class="Stunden" id="2_1"></td>
+          <td class="Lehrer_Raum" id="2_2"></td>
+          <td class="Lehrer_Raum" id="2_3"></td>
+          <td class="Lehrer_Raum" id="2_4"></td>
+          <td class="Lehrer_Raum" id="2_5"></td>
+          <td class="Lehrer_Raum" id="2_6"></td></tr>
+
+        <tr class="a">
+          <td class="Stunden" id="3_1"></td>
+          <td class="Fächer" id="3_2"></td>
+          <td class="Fächer" id="3_3"></td>
+          <td class="Fächer" id="3_4"></td>
+          <td class="Fächer" id="3_5"></td>
+          <td class="Fächer" id="3_6"></td></tr>
+
+        <tr class="b">
+          <td class="Stunden" id="4_1"></td>
+          <td class="Lehrer_Raum" id="4_2"></td>
+          <td class="Lehrer_Raum" id="4_3"></td>
+          <td class="Lehrer_Raum" id="4_4"></td>
+          <td class="Lehrer_Raum" id="4_5"></td>
+          <td class="Lehrer_Raum" id="4_6"></td></tr>
+
+        <tr class="a">
+          <td class="Stunden" id="5_1"></td>
+          <td class="Fächer" id="5_2"></td>
+          <td class="Fächer" id="5_3"> </td>
+          <td class="Fächer" id="5_4"></td>
+          <td class="Fächer" id="5_5"></td>
+          <td class="Fächer" id="5_6"></td></tr>
+
+        <tr class="b">
+          <td class="Stunden" id="6_1"></td>
+          <td class="Lehrer_Raum" id="6_2"></td>
+          <td class="Lehrer_Raum" id="6_3"></td>
+          <td class="Lehrer_Raum" id="6_4"></td>
+          <td class="Lehrer_Raum" id="6_5"></td>
+          <td class="Lehrer_Raum" id="6_6"></td></tr>
+
+          <tr class="a" id="unterste_zeile">
+            <td class="Stunden" id="7_1"></td>
+            <td class="Lehrer_Raum" id="7_2"></td>
+            <td class="Lehrer_Raum" id="7_3"></td>
+            <td class="Lehrer_Raum" id="7_4"></td>
+            <td class="Lehrer_Raum" id="7_5"></td>
+            <td class="Lehrer_Raum" id="7_6"></td></tr>
+
+                </tbody></table>
+
+
+
+
+
+
+
+</body>
+<script src="quellcode_speicher.js"></script>
+<script src="script.js"></script>
+<script src="script_stundenpläne.js"></script>
+</html>
+
+

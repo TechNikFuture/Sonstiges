@@ -1,0 +1,45 @@
+9b>9b</a></h2>     <table> <thead> <tr> <th>Stunde</th> <th colspan=3>Montag</th> <th colspan=3>Dienstag</th> <th colspan=3>Mittwoch</th> 
+<th colspan=3>Donnerstag</th> <th colspan=3>Freitag</th> </tr> </thead> <tbody> <tr class=odd> <td rowspan=1>1</td> 
+<td class=first-col>De</td> <td>Bi</td> <td class=last-col>906</td> <td class=first-col>En</td> <td>Bi</td> <td class=last-col>906</td>
+<td class=first-col>Sp</td> <td>Ps</td> <td class=last-col>LH1</td> <td class=first-col>De</td> <td>Bi</td> <td class=last-col>906</td>
+<td class=first-col>Ma</td> <td>Btr</td> <td class=last-col>906</td> </tr> <tr class=even>
+        
+        <td rowspan=1>2</td>
+<td class=first-col>De</td> <td>Bi</td> <td class=last-col>906</td> <td class=first-col>En</td> <td>Bi</td> <td class=last-col>906</td>
+<td class=first-col>Sp</td> <td>Ps</td> <td class=last-col>LH1</td> <td class=first-col>De</td> <td>Bi</td> <td class=last-col>906</td>
+<td class=first-col>Ma</td> <td>Btr</td> <td class=last-col>906</td> </tr> <tr class=odd>
+        
+        <td rowspan=4>3</td>
+<td class=first-col>Mu</td> <td>Ge</td> <td class=last-col>014</td> <td class=first-col>Ek</td> <td>Te</td> <td class=last-col>906</td>
+<td class=first-col>Fr</td> <td>Slw</td> <td class=last-col>905</td> <td class=first-col>Fr</td> <td>Slw</td> <td class=last-col>905</td>
+<td class=first-col>Rel</td> <td>Ge</td> <td class=last-col>014</td> </tr> <tr class=odd> 
+    <td colspan=3 class=first-col last-col></td> <td colspan=3 class=first-col last-col></td>
+<td class=first-col>La</td> <td>Wi</td> <td class=last-col>128</td><td class=first-col>La</td> <td>Wi</td> <td class=last-col>128</td>
+<td class=first-col>Rel</td> <td>Vl</td> <td class=last-col>905</td> </tr> <tr class=odd>
+    <td colspan=3 class=first-col last-col></td> <td colspan=3 class=first-col last-col></td>
+<td class=first-col>Fr</td> <td>Dö</td> <td class=last-col>906</td> <td class=first-col>Fr</td> <td>Dö</td> <td class=last-col>906</td>
+<td class=first-col>WN</td> <td>Pü</td> <td class=last-col>906</td> </tr> <tr class=odd>
+    <td colspan=3 class=first-col last-col></td> <td colspan=3 class=first-col last-col></td>
+<td class=first-col>Sn</td> <td>Sz</td> <td class=last-col>121</td> <td class=first-col>Sn</td> <td>Sz</td> <td class=last-col>121</td>
+<td class=first-col>Rel</td> <td>Tp</td> <td class=last-col>128</td> </tr> <tr class=even>
+        
+        <td rowspan=4>4</td>
+<td class=first-col>Mu</td> <td>Ge</td> <td class=last-col>014</td> <td class=first-col>Ek</td> <td>Te</td> <td class=last-col>906</td>
+<td class=first-col>Fr</td> <td>Slw</td> <td class=last-col>905</td> <td class=first-col>Fr</td> <td>Slw</td> <td class=last-col>905</td>
+<td class=first-col>Rel</td> <td>Ge</td> <td class=last-col>014</td> </tr> <tr class=even> <td colspan=3 class=first-col last-col></td>
+    <td colspan=3 class=first-col last-col></td>
+<td class=first-col>La</td> <td>Wi</td> <td class=last-col>128</td> <td class=first-col>La</td> <td>Wi</td> <td class=last-col>128</td>
+<td class=first-col>Rel</td> <td>Vl</td> <td class=last-col>905</td> </tr> <tr class=even>
+    <td colspan=3 class=first-col last-col></td> <td colspan=3 class=first-col last-col></td>
+<td class=first-col>Fr</td> <td>Dö</td> <td class=last-col>906</td> <td class=first-col>Fr</td> <td>Dö</td> <td class=last-col>906</td>
+<td class=first-col>WN</td> <td>Pü</td> <td class=last-col>906</td> </tr>
+    <tr class=even> <td colspan=3 class=first-col last-col></td> <td colspan=3 class=first-col last-col></td>
+<td class=first-col>Sn</td> <td>Sz</td> <td class=last-col>121</td> <td class=first-col>Sn</td> <td>Sz</td> <td class=last-col>121</td>
+<td class=first-col>Rel</td> <td>Tp</td> <td class=last-col>128</td> </tr> <tr class=odd>
+    
+    
+    <td rowspan=4>5</td>
+<td class=first-col>Ma</td> <td>Btr</td> <td class=last-col>906</td> <td class=first-col>Po</td> <td>Tl</td> <td class=last-col>906</td>
+<td class=first-col>Bi1bili</td> <td>Ht</td> <td class=last-col>023</td> <td colspan=3></td> <td class=first-col>Ge1bili</td> <td>Loe</td>
+<td class=last-col>001</td> </tr> <tr class=odd>
+    <td colspan=3 class=first-col last-col></td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Bi2</td> <td>Ht</td> <td class=last-col>025</td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Ge2</td> <td>Mr</td> <td class=last-col>906</td> </tr> <tr class=odd> <td colspan=3 class=first-col last-col></td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Ge3</td> <td>Mkü</td> <td class=last-col>033</td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Bi3</td> <td>Mar</td> <td class=last-col>023</td> </tr> <tr class=odd> <td colspan=3 class=first-col last-col></td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Ge4</td> <td>Wi</td> <td class=last-col>906</td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Bi4</td> <td>Mar</td> <td class=last-col>025</td> </tr> <tr class=even> <td rowspan=4>6</td> <td class=first-col>En</td> <td>Bi</td> <td class=last-col>906</td> <td class=first-col>Po</td> <td>Tl</td> <td class=last-col>906</td> <td class=first-col>Bi1bili</td> <td>Ht</td> <td class=last-col>023</td> <td colspan=3></td> <td class=first-col>Ge1bili</td> <td>Loe</td> <td class=last-col>001</td> </tr> <tr class=even> <td colspan=3 class=first-col last-col></td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Bi2</td> <td>Ht</td> <td class=last-col>025</td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Ge2</td> <td>Mr</td> <td class=last-col>906</td> </tr> <tr class=even> <td colspan=3 class=first-col last-col></td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Ge3</td> <td>Mkü</td> <td class=last-col>033</td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Bi3</td> <td>Mar</td> <td class=last-col>023</td> </tr> <tr class=even> <td colspan=3 class=first-col last-col></td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Ge4</td> <td>Wi</td> <td class=last-col>906</td> <td colspan=3 class=first-col last-col></td> <td class=first-col>Bi4</td> <td>Mar</td> <td class=last-col>025</td> </tr> <tr class=odd> <td rowspan=1>7</td> <td class=first-col>BGe</td> <td>Loe</td> <td class=last-col>001</td> <td colspan=3></td> <td colspan=3></td> <td colspan=3></td> <td colspan=3></td> </tr> <tr class=even> <td rowspan=1>8</td> <td colspan=3></td> <td colspan=3></td> <td colspan=3></td> <td colspan=3></td> <td colspan=3></td> </tr> <tr class=odd> <td rowspan=1>9</td> <td colspan=3></td> <td colspan=3></td> <td colspan=3></td> <td colspan=3></td> <td colspan=3></td> </tr> <tr class=even> <td rowspan=1>10</td> <td colspan=3></td> <td colspan=3></td> <td colspan=3></td> <td colspan=3></td> <td colspan=3></td> </tr> </tbody> </table> <h2><a name=

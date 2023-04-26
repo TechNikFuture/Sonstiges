@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+      
+      <div class="segmented-control">
+        
+        <input type="radio" name="radio2" value="2" id="tab-0" onclick="Latein_1()" checked/>
+        <label for="tab-0" class= "segmented-control__0">
+          <p>Latein Vl</p></label>
+        
+        <input type="radio" name="radio2" value="3" id="tab-1" onclick="Latein_2()"/>
+        <label for="tab-1" class= "segmented-control__1">
+          <p>Latein Vo</p></label>
+        
+        <input type="radio" name="radio2" value="4" id="tab-2" onclick="Französich()"/>
+        <label for="tab-2" class= "segmented-control__2">
+          <p>Französisch</p></label>
+        
+        <input type="radio" name="radio2" value="5" id="tab-3" onclick="Spanisch_1()"/>
+        <label for="tab-3" class= "segmented-control__3">
+          <p>Spanisch Ki</p></label>
+        
+        <input type="radio" name="radio2" value="6" id="tab-4" onclick="Spanisch_2()"/>
+        <label for="tab-4" class= "segmented-control__4">
+          <p>Spanisch Pn</p></label>
+        
+        <div class="segmented-control__color"></div>
+      </div>
+  </div>
+
+
+<br>
+
+
+    
+  
+      
+      <div class="segmented-control_2">
+        
+        <input type="radio" name="radio2_2" value="3_2" id="tab--1_2" onclick="Reli_1()" checked/>
+        <label for="tab--1_2" class= "segmented-control__-1_2">
+          <p>Reli Ge</p></label>
+        
+        <input type="radio" name="radio2_2" value="3_2" id="tab-0_2" onclick="Reli_2()"/>
+        <label for="tab-0_2" class= "segmented-control__0_2">
+          <p>Reli Vl</p></label>
+        
+        <input type="radio" name="radio2_2" value="3_2" id="tab-1_2" onclick="Reli_3()"/>
+        <label for="tab-1_2" class= "segmented-control__1_2">
+          <p>Reli Tp</p></label>
+        
+        <input type="radio" name="radio2_2" value="4_2" id="tab-2_2" onclick="WN()"/>
+        <label for="tab-2_2" class= "segmented-control__2_2">
+          <p>WN</p></label>
+
+        
+        <div class="segmented-control__color_2"></div>
+      </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="select-box2">
+      <div class="a_b_c_d_auswahl" id="test">
+
+      <div class="option2" onclick="Buchstabe_a_selected()">
+        <input type="radio" class="radio2" id="select_a" name="category" />
+        <label class="label2" for="select_a">a</label>
+      </div>
+      
+      <div class="option2" onclick="Buchstabe_b_selected()">
+        <input type="radio" class="radio2" id="select_b" name="category" />
+        <label class="label2" for="select_b">b</label>
+      </div>
+
+      <div class="option2" onclick="Buchstabe_c_selected()">
+        <input type="radio" class="radio2" id="select_c" name="category" />
+        <label class="label2" for="select_c">c</label>
+      </div>
+
+
+
+    </div>
+
+    <div class="selected2">
+      a, b, c oder d
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
+
+
+
+
+
+  <div class="select-box">
+    <div class="Klasse_auswahl">
+
+      <div class="option" onclick="Klasse_5_selected()">
+        <input type="radio" class="radio" id="select_5" name="category" />
+        <label for="select_5">5</label>
+      </div>
+      
+      <div class="option" onclick="Klasse_6_selected()">
+        <input type="radio" class="radio" id="select_6" name="category" />
+        <label for="select_6">6</label>
+      </div>
+
+      <div class="option" onclick="Klasse_7_selected()">
+        <input type="radio" class="radio" id="select_7" name="category" />
+        <label for="select_7">7</label>
+      </div>
+
+      <div class="option" onclick="Klasse_8_selected()">
+        <input type="radio" class="radio" id="select_8" name="category" />
+        <label for="select_8">8</label>
+      </div>
+
+      <div class="option" onclick="Klasse_9_selected()">
+        <input type="radio" class="radio" id="select_9" name="category" />
+        <label for="select_9">9</label>
+      </div>
+
+      <div class="option" onclick="Klasse_10_selected()">
+        <input type="radio" class="radio" id="select_10" name="category" />
+        <label for="select_10">10</label>
+      </div>
+
+      <div class="option" onclick="Klasse_11_selected()">
+        <input type="radio" class="radio" id="select_11" name="category" />
+        <label for="select_11">11</label>
+      </div>
+
+      <div class="option" onclick="Klasse_12_selected()">
+        <input type="radio" class="radio" id="select_12" name="category" />
+        <label for="select_12">12</label>
+      </div>
+
+
+    </div>
+
+    <div class="selected">
+      Klasse
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+      .select-box {
+    left: 0%;
+
+  }
+  .select-box2 {
+    left: 33%;
+  }
+
+  .select-box3 {
+    left: 66%;
+  }
+
+  .select-box4 {
+    left: 100%;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  --------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+      <div class="select-box2">
+        <div class="a_b_c_d_auswahl">
+  
+        <div class="option2" class="Buchstabe_auswahl_a" onclick="Buchstabe_a_selected()">
+          <input type="radio" class="radio2" id="select_a" name="category" />
+          <label class="label2" for="select_a">a</label>
+        </div>
+        
+        <div class="option2" class="Buchstabe_auswahl_b" onclick="Buchstabe_b_selected()">
+          <input type="radio" class="radio2" id="select_b" name="category" />
+          <label class="label2" for="select_b">b</label>
+        </div>
+  
+        <div class="option2" class="Buchstabe_auswahl_c" onclick="Buchstabe_c_selected()">
+          <input type="radio" class="radio2" id="select_c" name="category" />
+          <label class="label2" for="select_c">c</label>
+        </div>
+
+  
+      </div>
+  
+      <div class="selected2">
+        a, b oder c
+      </div>
+    </div>
+  

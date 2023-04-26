@@ -1,0 +1,15 @@
+{
+  "name": "06---stundenplan-iserv-versuch-daten-auslesen",
+  "version": "1.0.0",
+  "main": "VM21.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-site-downloader": "^1.3.0"
+  },
+  "description": ""
+}
